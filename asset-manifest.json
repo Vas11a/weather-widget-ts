@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-widget-ts/static/css/main.c6bb4b97.css",
+    "main.js": "/weather-widget-ts/static/js/main.15419abe.js",
+    "static/media/loading.gif": "/weather-widget-ts/static/media/loading.803f24369a085e35482e.gif",
+    "index.html": "/weather-widget-ts/index.html",
+    "main.c6bb4b97.css.map": "/weather-widget-ts/static/css/main.c6bb4b97.css.map",
+    "main.15419abe.js.map": "/weather-widget-ts/static/js/main.15419abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bb4b97.css",
+    "static/js/main.15419abe.js"
+  ]
+}
